@@ -8,22 +8,21 @@ Este proyecto explora diferentes enfoques arquitectónicos para dar solucion a d
 * Este escenario utiliza el patrón **Builder** para construir objetos, complejos paso a paso.
 
 
-![builderDiagrama.png](img/builderDiagrama.png)
-
+[![builderDiagrama.png](img/builderDiagrama.png)](https://github.com/Daniel19902/Patrones_Dise-o_MAS/blob/main/patrones/img/builderDiagrama.png)
 ---
 
 ## 📗 Escenario 2: Patrón Bridge (Estructural)
 
 * Este escenario aplica el patrón **Bridge** permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarquías separadas.
 
-![bridgeDiagrama.png](img/bridgeDiagrama.png)
+![img/bridgeDiagrama.png](https://github.com/Daniel19902/Patrones_Dise-o_MAS/blob/main/patrones/img/bridgeDiagrama.png)
 ---
 
 ## 📙 Escenario 3: Patrón Mediator (Comportamiento)
 
 * Este escenario aplica el patrón **Mediator** Permite reducir las dependencias caóticas entre objetos.
 
-![mediatorDiagrama.png](img/mediatorDiagrama.png)
+![mediatorDiagrama.png](https://github.com/Daniel19902/Patrones_Dise-o_MAS/blob/main/patrones/img/mediatorDiagrama.png)
 ---
 
 ## 🛠️ Integrantes

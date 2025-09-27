@@ -8,7 +8,7 @@ Este proyecto explora diferentes enfoques arquitectónicos para dar solucion a d
 * Este escenario utiliza el patrón **Builder** para construir objetos, complejos paso a paso.
 
 
-[![builderDiagrama.png](img/builderDiagrama.png)](https://github.com/Daniel19902/Patrones_Dise-o_MAS/blob/main/patrones/img/builderDiagrama.png)
+![builderDiagrama.png](https://github.com/Daniel19902/Patrones_Dise-o_MAS/blob/main/patrones/img/builderDiagrama.png)
 ---
 
 ## 📗 Escenario 2: Patrón Bridge (Estructural)
